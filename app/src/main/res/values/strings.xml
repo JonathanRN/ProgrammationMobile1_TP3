@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TP3Mobile</string>
+    <string name="text_button_play">Play</string>
+    <string name="text_button_deck">Deck</string>
 </resources>
