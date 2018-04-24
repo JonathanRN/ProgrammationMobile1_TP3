@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         int hello = 10;
+        int fuckingcunt = 0000;
     }
 }
